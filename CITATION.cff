@@ -3,6 +3,8 @@ message: "If you use these materials, please cite them as below."
 type: software
 title: 'Data and code for "Mapping the Semantic Structure of Soft Power Research: An LLM-Assisted Bibliometric Analysis, 1990–2025"'
 version: 1.0.0
+doi: 10.5281/zenodo.23571334
+date-released: 2026-10-22
 authors:
   - family-names: Li
     given-names: Zhen

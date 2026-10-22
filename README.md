@@ -1,5 +1,7 @@
 # Data and code for "Mapping the Semantic Structure of Soft Power Research: An LLM-Assisted Bibliometric Analysis, 1990–2025"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23571334.svg)](https://doi.org/10.5281/zenodo.23571334)
+
 Zhen Li¹, Huaiqun Zhao¹, Zengru Di²\*, Ya Zhou²\*
 
 ¹ School of National Safety and Emergency Management, Beijing Normal University, Beijing 100875, China  
@@ -93,4 +95,8 @@ First-pass semantic screening and candidate phrase extraction used the DeepSeek 
 
 ## Citation
 
-Please cite the article and this archive. Citation metadata are provided in `CITATION.cff`. The Zenodo DOI will be added after archiving.
+Please cite the article and this archive:
+
+Li, Z., Zhao, H., Di, Z., & Zhou, Y. (2026). *Data and code for "Mapping the Semantic Structure of Soft Power Research: An LLM-Assisted Bibliometric Analysis, 1990–2025"* (Version 1.0.0) [Data set and software]. Zenodo. https://doi.org/10.5281/zenodo.23571334
+
+Citation metadata are provided in `CITATION.cff`.
