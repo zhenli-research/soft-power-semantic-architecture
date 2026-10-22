@@ -1,0 +1,62 @@
+{
+  "analysis": "Exclude the 51 phrase-work pairs added for five works, recalculate df, retain df>=3 phrases, then re-cluster using the stored embeddings.",
+  "removed_work_count": 5,
+  "removed_phrase_work_pair_count": 51,
+  "common_phrase_count": 249,
+  "retained_df_ge_3_phrase_count": 249,
+  "community_count": 7,
+  "community_sizes_desc": [
+    61,
+    48,
+    37,
+    34,
+    26,
+    25,
+    18
+  ],
+  "community_sizes_by_leiden_id": {
+    "0": 61,
+    "1": 48,
+    "2": 37,
+    "3": 34,
+    "4": 26,
+    "5": 25,
+    "6": 18
+  },
+  "structural_coverage": {
+    "covered_works": 1063,
+    "core_works": 2055,
+    "fraction": 0.5172749391727494,
+    "display": "1063/2055 = 51.7275%"
+  },
+  "agreement_on_249_common_phrases": {
+    "ARI": 0.8918769224734304,
+    "AMI": 0.9240096637086386,
+    "family_level_cohens_kappa": 0.9464181962944632,
+    "family_mapping_rule": "Each new Leiden community is assigned the plurality family among its member phrases under the primary-analysis family mapping; ties resolve by F1–F5 order."
+  },
+  "clustering": {
+    "metric": "cosine",
+    "k": 15,
+    "graph": "undirected kNN; duplicate edges retain maximum 1 - cosine_distance weight",
+    "undirected_edge_count": 2705,
+    "partition": "Leiden RBConfigurationVertexPartition",
+    "resolution": 1.0,
+    "seed": 42
+  },
+  "source_paths": {
+    "pairs": "data/s1_corrected_work_phrase_pairs.csv",
+    "vocabulary": "data/s1_corrected_phrase_vocabulary.csv",
+    "primary_clusters": "data/s1_primary_clusters_df3.csv",
+    "embeddings": "data/corrected_embeddings_df3.npy",
+    "corpus_manifest": "data/corpus_manifest.csv"
+  },
+  "runtime": {
+    "python": "3.10.11 | packaged by Anaconda, Inc. | (main, May 16 2023, 00:55:32) [MSC v.1916 64 bit (AMD64)]",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.7.2",
+    "igraph": "1.0.0",
+    "leidenalg": "0.11.0"
+  }
+}

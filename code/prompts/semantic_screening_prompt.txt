@@ -1,0 +1,42 @@
+def prompt_stage1(title: str, abstract: str, keywords: str) -> str:
+    return f"""
+Task: Disambiguate and gate the record for a bibliometric corpus about "soft power" using ONLY title/abstract/keywords.
+
+Research goal: We will DISCOVER the dimensional structure of soft power later. Do NOT assume any predefined framework.
+However, EXCLUDE records where "soft power" is only a passing mention (peripheral), because they add noise and distort clustering.
+
+Definitions:
+- "concept_social": social/political/communication concept usage
+- "technical": engineering/physical sciences meaning
+- "metaphor": loose metaphor / rhetorical usage without analytic role
+- "uncertain": insufficient info
+
+For usage_type="concept_social", judge concept_role:
+- "core": soft power is a main research object/variable/mechanism, OR the paper analyzes/defines/measures/compares soft power.
+- "peripheral": soft power is only mentioned in passing (e.g., a background phrase like "hard and soft power") and is not analyzed.
+- "unclear": cannot decide from the text.
+
+HARD test for peripheral:
+If removing the words "soft power" would NOT change the research question or conclusion, label as "peripheral".
+
+Extraction rule:
+- Only if keep_core==1, extract dimension_phrases (3–6 short noun phrases, <=5 words each) grounded in the text.
+- If keep_core==0, dimension_phrases MUST be [].
+
+Return ONLY valid JSON with EXACT keys:
+{{
+  "usage_type": "concept_social" | "technical" | "metaphor" | "uncertain",
+  "concept_role": "core" | "peripheral" | "unclear" | "na",
+  "keep_broad": 0 or 1,
+  "keep_core": 0 or 1,
+  "confidence": 0-100,
+  "reason_short": "<=25 words",
+  "meaning_summary": "1-2 sentences, evidence-based",
+  "evidence_terms": ["exact phrases copied from the record", "..."],
+  "dimension_phrases": ["...", "..."] 
+}}
+
+Title: {title}
+Abstract: {abstract}
+Keywords: {keywords}
+""".strip()

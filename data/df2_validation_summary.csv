@@ -1,0 +1,2 @@
+population_total,attached_n,unattached_n,attached_sample_n,diagnostic_unattached_n,human_reliability_n,agreement_n,agreement_rate,kappa,weighted_strict_accuracy,ci_lower,ci_upper,criterion,decision
+375,257,118,100,20,120,111,0.925,0.907842,0.569001,0.490424,0.644251,0.8,NOT_RETAINED

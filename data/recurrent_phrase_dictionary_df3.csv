@@ -1,0 +1,257 @@
+phrase_id,canonical_phrase,df,community_id,family_id
+P00027,accountability mechanisms,3,C1,F2
+P00072,affinity toward country,3,C6,F3
+P00112,aid diplomacy,3,C2,F1
+P00186,anti americanism,3,C3,F1
+P00293,attraction and persuasion,4,C1,F2
+P00304,attraction rather than coercion,3,C1,F2
+P00336,audience reception,3,C1,F2
+P00400,belt and road initiative,12,C2,F1
+P00429,bilateral relations,9,C2,F1
+P00561,celebrity diplomacy,4,C2,F1
+P00583,china africa relations,3,C2,F1
+P00611,china image,3,C6,F3
+P00635,china soft power,4,C5,F4
+P00647,china soft power strategy,10,C5,F4
+P00680,chinese foreign policy,6,C3,F1
+P00752,cinema,3,C1,F2
+P00759,citizen diplomacy,3,C2,F1
+P00763,city diplomacy,3,C2,F1
+P00772,civil society,3,C4,F3
+P00784,civilization,3,C4,F3
+P00835,cold war context,3,C3,F1
+P00909,communication strategies,4,C2,F1
+P00943,comparative analysis of soft power,3,C5,F4
+P00955,comparative study,3,C7,F5
+P01013,conceptualization of soft power,3,C5,F4
+P01026,conflict resolution,7,C2,F1
+P01047,confucius institutes,27,C7,F5
+P01119,contrast with hard power,4,C5,F4
+P01167,cosmopolitanism,3,C4,F3
+P01192,country image,6,C6,F3
+P01216,covid 19 pandemic,3,C2,F1
+P01342,cultural appeal,3,C4,F3
+P01350,cultural attraction,4,C4,F3
+P01352,cultural attractiveness,6,C4,F3
+P01393,cultural diplomacy,145,C2,F1
+P01404,cultural diplomacy strategy,3,C2,F1
+P01407,cultural diplomacy tool,4,C2,F1
+P01413,cultural dissemination,3,C4,F3
+P01427,cultural exchange,25,C4,F3
+P01434,cultural exports,6,C4,F3
+P01455,cultural hegemony,5,C4,F3
+P01457,cultural heritage,7,C4,F3
+P01473,cultural identity,7,C4,F3
+P01488,cultural imperialism,3,C4,F3
+P01498,cultural influence,30,C4,F3
+P01547,cultural policy,12,C4,F3
+P01553,cultural politics,3,C4,F3
+P01554,cultural power,7,C4,F3
+P01563,cultural production,3,C4,F3
+P01565,cultural products,3,C4,F3
+P01568,cultural promotion,4,C4,F3
+P01577,cultural proximity,4,C4,F3
+P01585,cultural relations,3,C4,F3
+P01595,cultural representation,3,C4,F3
+P01598,cultural resources,8,C4,F3
+P01607,cultural security,3,C4,F3
+P01615,cultural soft power,21,C5,F4
+P01646,cultural values,4,C4,F3
+P01659,culture,22,C4,F3
+P01661,culture and education,3,C4,F3
+P01781,development assistance,6,C7,F5
+P01785,development cooperation,3,C2,F1
+P01847,digital diplomacy,5,C2,F1
+P01874,digital public diplomacy,3,C2,F1
+P01888,diplomacy,10,C2,F1
+P01948,diplomatic practices,3,C2,F1
+P01951,diplomatic relations,8,C2,F1
+P01965,diplomatic strategies,4,C2,F1
+P01991,discourse analysis,4,C3,F1
+P02133,economic cooperation,3,C1,F2
+P02138,economic development,7,C1,F2
+P02144,economic diplomacy,8,C2,F1
+P02158,economic growth,3,C1,F2
+P02164,economic impact,3,C1,F2
+P02168,economic influence,3,C1,F2
+P02187,economic power,3,C1,F2
+P02212,economic statecraft,4,C1,F2
+P02224,education,7,C7,F5
+P02236,education as soft power tool,3,C5,F4
+P02240,education diplomacy,5,C7,F5
+P02263,educational cooperation,4,C7,F5
+P02267,educational diplomacy,6,C7,F5
+P02272,educational exchanges,9,C7,F5
+P02280,educational institutions,3,C7,F5
+P02419,environmental leadership,3,C1,F2
+P02655,film industry,4,C1,F2
+P02695,foreign aid,3,C3,F1
+P02702,foreign aid effectiveness,3,C3,F1
+P02745,foreign policy,43,C3,F1
+P02749,foreign policy agenda,5,C3,F1
+P02753,foreign policy analysis,5,C3,F1
+P02755,foreign policy approach,6,C3,F1
+P02767,foreign policy decision making,3,C3,F1
+P02769,foreign policy dimension,3,C3,F1
+P02774,foreign policy goals,17,C3,F1
+P02778,foreign policy implementation,3,C3,F1
+P02780,foreign policy influence,7,C3,F1
+P02782,foreign policy instrument,12,C3,F1
+P02794,foreign policy objectives,6,C3,F1
+P02817,foreign policy strategy,25,C3,F1
+P02819,foreign policy tool,15,C3,F1
+P02827,foreign public opinion,3,C1,F2
+P02866,gastrodiplomacy,4,C3,F1
+P02914,geopolitical agendas,3,C3,F1
+P02924,geopolitical competition,4,C3,F1
+P02933,geopolitical context,3,C3,F1
+P02949,geopolitical influence,12,C3,F1
+P02956,geopolitical objectives,3,C3,F1
+P02972,geopolitical rivalry,3,C3,F1
+P02981,geopolitical strategy,5,C3,F1
+P03013,global appeal,3,C1,F2
+P03065,global health diplomacy,5,C2,F1
+P03078,global image enhancement,5,C6,F3
+P03085,global influence,9,C1,F2
+P03099,global leadership,3,C1,F2
+P03128,global perceptions,3,C1,F2
+P03149,global reach,4,C1,F2
+P03151,global recognition,3,C6,F3
+P03190,globalization,4,C1,F2
+P03285,grand strategy,4,C3,F1
+P03293,great power competition,4,C5,F4
+P03373,health diplomacy,13,C2,F1
+P03421,higher education,7,C7,F5
+P03431,higher education internationalization,4,C7,F5
+P03541,human rights,5,C1,F2
+P03558,humanitarian aid,4,C2,F1
+P03563,humanitarian assistance,5,C2,F1
+P03628,identity construction,4,C6,F3
+P03676,image building,3,C6,F3
+P03888,institutional framework,3,C1,F2
+P03929,intangible cultural heritage,4,C4,F3
+P03964,intercultural dialogue,3,C4,F3
+P04016,international broadcasting,6,C1,F2
+P04027,international communication,4,C2,F1
+P04047,international cooperation,11,C2,F1
+P04054,international cultural exchanges,3,C4,F3
+P04064,international diplomacy,4,C2,F1
+P04068,international education,11,C7,F5
+P04099,international higher education,3,C7,F5
+P04109,international image,13,C6,F3
+P04111,international image building,7,C6,F3
+P04114,international image enhancement,3,C6,F3
+P04120,international influence,16,C1,F2
+P04190,international prestige,3,C1,F2
+P04200,international public opinion,3,C1,F2
+P04206,international recognition,6,C6,F3
+P04209,international relations,33,C3,F1
+P04232,international relations strategy,6,C3,F1
+P04239,international reputation,8,C1,F2
+P04270,international sporting events,3,C1,F2
+P04282,international student mobility,4,C7,F5
+P04305,internationalization of cultural products,3,C4,F3
+P04306,internationalization of higher education,3,C7,F5
+P04425,knowledge diplomacy,4,C2,F1
+P04447,korean wave,3,C4,F3
+P04480,language policies,4,C3,F1
+P04484,language promotion,3,C4,F3
+P04503,leadership,4,C1,F2
+P04576,limits of soft power,4,C5,F4
+P04747,media coverage,4,C1,F2
+P04775,media framing,5,C1,F2
+P04784,media influence,6,C1,F2
+P04788,media investment,3,C1,F2
+P04809,media representation,5,C1,F2
+P04817,media strategy,3,C1,F2
+P04937,moderate islam promotion,3,C4,F3
+P04955,moral authority,5,C1,F2
+P05069,nation branding,48,C6,F3
+P05078,nation branding strategy,3,C6,F3
+P05081,nation brands,3,C6,F3
+P05082,nation building,4,C6,F3
+P05108,national branding,5,C6,F3
+P05113,national cohesion,4,C6,F3
+P05130,national identity,16,C6,F3
+P05135,national identity construction,8,C6,F3
+P05142,national image,9,C6,F3
+P05145,national image building,3,C6,F3
+P05153,national image improvement,4,C6,F3
+P05170,national interests,4,C3,F1
+P05211,national soft power strategies,5,C5,F4
+P05226,nationalism,3,C6,F3
+P05363,non state actors,4,C2,F1
+P05407,normative influence,5,C1,F2
+P05416,normative power,4,C5,F4
+P05692,place branding,5,C6,F3
+P05736,policy instrument,3,C3,F1
+P05827,political discourse,3,C3,F1
+P05854,political ideology,3,C3,F1
+P05861,political influence,6,C1,F2
+P05882,political legitimacy,4,C3,F1
+P05899,political power,7,C1,F2
+P05900,political power dynamics,3,C3,F1
+P05935,political values,14,C3,F1
+P06000,positive image creation,3,C6,F3
+P06066,power of attraction,5,C1,F2
+P06080,power relations,6,C5,F4
+P06175,projection of soft power,3,C5,F4
+P06205,propaganda,7,C1,F2
+P06242,public and cultural diplomacy,4,C2,F1
+P06256,public diplomacy,154,C2,F1
+P06270,public diplomacy efforts,6,C2,F1
+P06276,public diplomacy initiatives,3,C2,F1
+P06288,public diplomacy practice,4,C2,F1
+P06293,public diplomacy strategy,14,C2,F1
+P06295,public diplomacy tool,7,C2,F1
+P06308,public opinion,4,C1,F2
+P06314,public opinion influence,4,C1,F2
+P06330,public perceptions,5,C1,F2
+P06449,regional influence,5,C1,F2
+P06460,regional integration,4,C7,F5
+P06540,relationship building,3,C2,F1
+P06553,religion,5,C4,F3
+P06574,religious diplomacy,4,C2,F1
+P06602,religious soft power,11,C5,F4
+P06606,religious statecraft,3,C4,F3
+P06617,reputation,3,C1,F2
+P06783,scholarship programs,4,C7,F5
+P06790,science diplomacy,6,C2,F1
+P06796,scientific diplomacy,3,C2,F1
+P06849,sentiment analysis,3,C1,F2
+P06905,sino african relations,3,C2,F1
+P06938,smart power strategy,8,C5,F4
+P06976,social media,3,C1,F2
+P07063,soft disempowerment,4,C5,F4
+P07080,soft power,6,C5,F4
+P07110,soft power capabilities,3,C5,F4
+P07131,soft power diplomacy,12,C5,F4
+P07169,soft power instruments,7,C5,F4
+P07187,soft power policy,3,C5,F4
+P07195,soft power projection,6,C5,F4
+P07199,soft power rankings,5,C5,F4
+P07206,soft power resources,14,C5,F4
+P07216,soft power strategies,21,C5,F4
+P07225,soft power theory,3,C5,F4
+P07228,soft power tools,8,C5,F4
+P07252,sources of soft power,6,C5,F4
+P07329,sport diplomacy,14,C2,F1
+P07359,sports diplomacy,14,C2,F1
+P07371,sports mega events,13,C1,F2
+P07380,sportswashing,6,C1,F2
+P07407,state and non state actors,3,C2,F1
+P07469,state led soft power strategy,3,C5,F4
+P07564,strategic communication,10,C2,F1
+P07586,strategic influence,3,C1,F2
+P07589,strategic interests,3,C3,F1
+P07599,strategic narratives,16,C3,F1
+P07604,strategic objectives,3,C3,F1
+P07606,strategic partnerships,4,C3,F1
+P07657,student exchange programs,3,C7,F5
+P07659,student mobility,3,C7,F5
+P07724,symbolic power,3,C5,F4
+P07943,translation policies,5,C3,F1
+P08013,trust building,3,C1,F2
+P08026,turkish foreign policy,4,C3,F1
+P08152,vaccine diplomacy,11,C2,F1
+P08273,winning hearts and minds,4,C2,F1

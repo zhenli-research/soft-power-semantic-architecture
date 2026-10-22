@@ -1,0 +1,3 @@
+﻿threshold,retained_phrase_count,cluster_count,cluster_sizes,covered_works,core_works_total,document_coverage,shared_phrases_with_df3,shared_phrase_rate_vs_df3,ARI_vs_df3,AMI_vs_df3,graph_edge_count
+df>=4,155,6,35;30;28;24;20;18,959,2055,0.4666666666666667,155,0.60546875,0.6741151788018745,0.7260095460818955,1657
+df>=5,104,5,32;28;18;17;9,861,2055,0.41897810218978104,104,0.40625,0.5477895627750279,0.6702504004262033,1070

@@ -1,0 +1,9 @@
+def prompt_stage1_retry(title: str, abstract: str, keywords: str) -> str:
+    # pressure prompt used only when parse/schema fails once
+    return f"""
+You MUST output ONLY valid JSON (no markdown). Follow the schema strictly.
+If unsure, set usage_type="uncertain", concept_role="na", keep_broad=0, keep_core=0, dimension_phrases=[].
+Now do the task again.
+
+{prompt_stage1(title, abstract, keywords)}
+""".strip()

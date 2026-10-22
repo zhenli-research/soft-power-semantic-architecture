@@ -1,0 +1,505 @@
+audit_id,work_id,sample_group,work_audit_result,phrase,phrase_support,major_omission
+PEA-001,work:118e9bc839575081,core_unassigned,PASS,strategic considerations in US-China relations,SEMANTICALLY_SUPPORTED,FALSE
+PEA-001,work:118e9bc839575081,core_unassigned,PASS,EU's soft power role,DIRECTLY_SUPPORTED,FALSE
+PEA-001,work:118e9bc839575081,core_unassigned,PASS,bilateral and multilateral engagement,DIRECTLY_SUPPORTED,FALSE
+PEA-001,work:118e9bc839575081,core_unassigned,PASS,functional equivalent in foreign policy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-001,work:118e9bc839575081,core_unassigned,PASS,engagement policy towards East Asia,SEMANTICALLY_SUPPORTED,FALSE
+PEA-002,work:0df4f9675557aa59,baseline_df_ge_3_covered,PASS,cultural influence,DIRECTLY_SUPPORTED,FALSE
+PEA-002,work:0df4f9675557aa59,baseline_df_ge_3_covered,PASS,cultural deficit,DIRECTLY_SUPPORTED,FALSE
+PEA-002,work:0df4f9675557aa59,baseline_df_ge_3_covered,PASS,state policies,DIRECTLY_SUPPORTED,FALSE
+PEA-002,work:0df4f9675557aa59,baseline_df_ge_3_covered,PASS,cultural and language barriers,DIRECTLY_SUPPORTED,FALSE
+PEA-002,work:0df4f9675557aa59,baseline_df_ge_3_covered,PASS,Western cultural markets,DIRECTLY_SUPPORTED,FALSE
+PEA-002,work:0df4f9675557aa59,baseline_df_ge_3_covered,PASS,intellectual environments,DIRECTLY_SUPPORTED,FALSE
+PEA-003,work:6196c2f5be7435d9,df2_extended_only,PASS,ethnic identity factors,DIRECTLY_SUPPORTED,FALSE
+PEA-003,work:6196c2f5be7435d9,df2_extended_only,PASS,cultural and historical values,DIRECTLY_SUPPORTED,FALSE
+PEA-003,work:6196c2f5be7435d9,df2_extended_only,PASS,international organizations and institutions,DIRECTLY_SUPPORTED,FALSE
+PEA-003,work:6196c2f5be7435d9,df2_extended_only,PASS,cultural and educational initiatives,DIRECTLY_SUPPORTED,FALSE
+PEA-003,work:6196c2f5be7435d9,df2_extended_only,PASS,economic cooperation indicators,DIRECTLY_SUPPORTED,FALSE
+PEA-004,work:873f76a6c5aa67f9,baseline_df_ge_3_covered,PASS,leader characteristics,SEMANTICALLY_SUPPORTED,FALSE
+PEA-004,work:873f76a6c5aa67f9,baseline_df_ge_3_covered,PASS,international constituencies,DIRECTLY_SUPPORTED,FALSE
+PEA-004,work:873f76a6c5aa67f9,baseline_df_ge_3_covered,PASS,winning hearts and minds,SEMANTICALLY_SUPPORTED,FALSE
+PEA-004,work:873f76a6c5aa67f9,baseline_df_ge_3_covered,PASS,particular international circumstances,DIRECTLY_SUPPORTED,FALSE
+PEA-005,work:5b7e649f40f71c88,core_unassigned,PASS,sense of soft power,DIRECTLY_SUPPORTED,FALSE
+PEA-005,work:5b7e649f40f71c88,core_unassigned,PASS,psychological measurement scale,SEMANTICALLY_SUPPORTED,FALSE
+PEA-005,work:5b7e649f40f71c88,core_unassigned,PASS,interpersonal influence perception,SEMANTICALLY_SUPPORTED,FALSE
+PEA-005,work:5b7e649f40f71c88,core_unassigned,PASS,factor analysis validation,DIRECTLY_SUPPORTED,FALSE
+PEA-006,work:8303d95a09a53ec9,core_unassigned,PASS,wartime poetry as cultural response,SEMANTICALLY_SUPPORTED,FALSE
+PEA-006,work:8303d95a09a53ec9,core_unassigned,PASS,national narrative shaping,SEMANTICALLY_SUPPORTED,FALSE
+PEA-006,work:8303d95a09a53ec9,core_unassigned,PASS,international solidarity creation,SEMANTICALLY_SUPPORTED,FALSE
+PEA-006,work:8303d95a09a53ec9,core_unassigned,PASS,foreign policy promotion,SEMANTICALLY_SUPPORTED,FALSE
+PEA-007,work:9199af8dd57d6341,baseline_df_ge_3_covered,MINOR_ISSUE,sports mega-events,DIRECTLY_SUPPORTED,FALSE
+PEA-007,work:9199af8dd57d6341,baseline_df_ge_3_covered,MINOR_ISSUE,domestic politics,DIRECTLY_SUPPORTED,FALSE
+PEA-007,work:9199af8dd57d6341,baseline_df_ge_3_covered,MINOR_ISSUE,regional status,DIRECTLY_SUPPORTED,FALSE
+PEA-007,work:9199af8dd57d6341,baseline_df_ge_3_covered,MINOR_ISSUE,global status,DIRECTLY_SUPPORTED,FALSE
+PEA-007,work:9199af8dd57d6341,baseline_df_ge_3_covered,MINOR_ISSUE,cultural diplomacy,UNSUPPORTED,FALSE
+PEA-007,work:9199af8dd57d6341,baseline_df_ge_3_covered,MINOR_ISSUE,international rationale,SEMANTICALLY_SUPPORTED,FALSE
+PEA-008,work:32e36f6c71c0e21d,core_unassigned,PASS,humanitarian border control,DIRECTLY_SUPPORTED,FALSE
+PEA-008,work:32e36f6c71c0e21d,core_unassigned,PASS,soft border management,SEMANTICALLY_SUPPORTED,FALSE
+PEA-008,work:32e36f6c71c0e21d,core_unassigned,PASS,humanitarian actors,DIRECTLY_SUPPORTED,FALSE
+PEA-008,work:32e36f6c71c0e21d,core_unassigned,PASS,asylum seeker mobility,DIRECTLY_SUPPORTED,FALSE
+PEA-009,work:5095145abfc07d3c,baseline_df_ge_3_covered,PASS,national football league development,SEMANTICALLY_SUPPORTED,FALSE
+PEA-009,work:5095145abfc07d3c,baseline_df_ge_3_covered,PASS,cultural soft power factors,SEMANTICALLY_SUPPORTED,FALSE
+PEA-009,work:5095145abfc07d3c,baseline_df_ge_3_covered,PASS,soft power managerial perspective,DIRECTLY_SUPPORTED,FALSE
+PEA-009,work:5095145abfc07d3c,baseline_df_ge_3_covered,PASS,football industry investment,SEMANTICALLY_SUPPORTED,FALSE
+PEA-009,work:5095145abfc07d3c,baseline_df_ge_3_covered,PASS,cultural heritage preservation,SEMANTICALLY_SUPPORTED,FALSE
+PEA-009,work:5095145abfc07d3c,baseline_df_ge_3_covered,PASS,soft power strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-010,work:da349a54a0a58bb9,baseline_df_ge_3_covered,PASS,ASEAN integration process,SEMANTICALLY_SUPPORTED,FALSE
+PEA-010,work:da349a54a0a58bb9,baseline_df_ge_3_covered,PASS,power of attraction,DIRECTLY_SUPPORTED,FALSE
+PEA-010,work:da349a54a0a58bb9,baseline_df_ge_3_covered,PASS,peace and sustainable development,DIRECTLY_SUPPORTED,FALSE
+PEA-010,work:da349a54a0a58bb9,baseline_df_ge_3_covered,PASS,political-cultural-economic-social conditions,DIRECTLY_SUPPORTED,FALSE
+PEA-010,work:da349a54a0a58bb9,baseline_df_ge_3_covered,PASS,community strength in diversity,SEMANTICALLY_SUPPORTED,FALSE
+PEA-011,work:640f6349c051bfea,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-011,work:640f6349c051bfea,baseline_df_ge_3_covered,PASS,trust-building,DIRECTLY_SUPPORTED,FALSE
+PEA-011,work:640f6349c051bfea,baseline_df_ge_3_covered,PASS,democracy,DIRECTLY_SUPPORTED,FALSE
+PEA-011,work:640f6349c051bfea,baseline_df_ge_3_covered,PASS,peacebuilding tools,SEMANTICALLY_SUPPORTED,FALSE
+PEA-012,work:b1c62055cf2935b1,baseline_df_ge_3_covered,PASS,Chinese foreign policy,DIRECTLY_SUPPORTED,FALSE
+PEA-012,work:b1c62055cf2935b1,baseline_df_ge_3_covered,PASS,United Nations peacekeeping operations,DIRECTLY_SUPPORTED,FALSE
+PEA-012,work:b1c62055cf2935b1,baseline_df_ge_3_covered,PASS,Western models of development,DIRECTLY_SUPPORTED,FALSE
+PEA-012,work:b1c62055cf2935b1,baseline_df_ge_3_covered,PASS,diverse understandings of soft power,SEMANTICALLY_SUPPORTED,FALSE
+PEA-012,work:b1c62055cf2935b1,baseline_df_ge_3_covered,PASS,charm offensive aimed at the West,DIRECTLY_SUPPORTED,FALSE
+PEA-013,work:e1f75933fa2b87b1,baseline_df_ge_3_covered,PASS,public diplomacy goals,DIRECTLY_SUPPORTED,FALSE
+PEA-013,work:e1f75933fa2b87b1,baseline_df_ge_3_covered,PASS,cultural identities,DIRECTLY_SUPPORTED,FALSE
+PEA-013,work:e1f75933fa2b87b1,baseline_df_ge_3_covered,PASS,global communication events,DIRECTLY_SUPPORTED,FALSE
+PEA-013,work:e1f75933fa2b87b1,baseline_df_ge_3_covered,PASS,nationalist emotions management,SEMANTICALLY_SUPPORTED,FALSE
+PEA-013,work:e1f75933fa2b87b1,baseline_df_ge_3_covered,PASS,media responses analysis,SEMANTICALLY_SUPPORTED,FALSE
+PEA-014,work:a6a143a164d1d913,baseline_df_ge_3_covered,PASS,Indigenous visual art,DIRECTLY_SUPPORTED,FALSE
+PEA-014,work:a6a143a164d1d913,baseline_df_ge_3_covered,PASS,cultural statecraft,DIRECTLY_SUPPORTED,FALSE
+PEA-014,work:a6a143a164d1d913,baseline_df_ge_3_covered,PASS,diplomacy for visual art,DIRECTLY_SUPPORTED,FALSE
+PEA-014,work:a6a143a164d1d913,baseline_df_ge_3_covered,PASS,meta-soft power,DIRECTLY_SUPPORTED,FALSE
+PEA-014,work:a6a143a164d1d913,baseline_df_ge_3_covered,PASS,Indigenous resilience,DIRECTLY_SUPPORTED,FALSE
+PEA-014,work:a6a143a164d1d913,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-015,work:f0291ba960445c66,core_unassigned,PASS,education and language transmission,DIRECTLY_SUPPORTED,FALSE
+PEA-015,work:f0291ba960445c66,core_unassigned,PASS,cultural and ideological values,DIRECTLY_SUPPORTED,FALSE
+PEA-015,work:f0291ba960445c66,core_unassigned,PASS,attracting international students,DIRECTLY_SUPPORTED,FALSE
+PEA-015,work:f0291ba960445c66,core_unassigned,PASS,training qualified professionals,DIRECTLY_SUPPORTED,FALSE
+PEA-015,work:f0291ba960445c66,core_unassigned,PASS,cultivating loyal elites,DIRECTLY_SUPPORTED,FALSE
+PEA-015,work:f0291ba960445c66,core_unassigned,PASS,strategic governance in education,SEMANTICALLY_SUPPORTED,FALSE
+PEA-016,work:e1b0fac7b7d836b7,baseline_df_ge_3_covered,PASS,public diplomacy initiatives,DIRECTLY_SUPPORTED,FALSE
+PEA-016,work:e1b0fac7b7d836b7,baseline_df_ge_3_covered,PASS,cultural dimensions,DIRECTLY_SUPPORTED,FALSE
+PEA-016,work:e1b0fac7b7d836b7,baseline_df_ge_3_covered,PASS,value dimensions,DIRECTLY_SUPPORTED,FALSE
+PEA-016,work:e1b0fac7b7d836b7,baseline_df_ge_3_covered,PASS,international relations,DIRECTLY_SUPPORTED,FALSE
+PEA-016,work:e1b0fac7b7d836b7,baseline_df_ge_3_covered,PASS,diplomatic operations,DIRECTLY_SUPPORTED,FALSE
+PEA-017,work:8148d1d9f87d3632,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-017,work:8148d1d9f87d3632,baseline_df_ge_3_covered,PASS,relationship with the United States,DIRECTLY_SUPPORTED,FALSE
+PEA-017,work:8148d1d9f87d3632,baseline_df_ge_3_covered,PASS,security policy,DIRECTLY_SUPPORTED,FALSE
+PEA-017,work:8148d1d9f87d3632,baseline_df_ge_3_covered,PASS,reification of concepts,DIRECTLY_SUPPORTED,FALSE
+PEA-017,work:8148d1d9f87d3632,baseline_df_ge_3_covered,PASS,narrative power,DIRECTLY_SUPPORTED,FALSE
+PEA-017,work:8148d1d9f87d3632,baseline_df_ge_3_covered,PASS,expert knowledge,DIRECTLY_SUPPORTED,FALSE
+PEA-018,work:6f46f2ff4c7fa6ec,baseline_df_ge_3_covered,PASS,aviation as foreign policy tool,SEMANTICALLY_SUPPORTED,FALSE
+PEA-018,work:6f46f2ff4c7fa6ec,baseline_df_ge_3_covered,PASS,shaping national image,DIRECTLY_SUPPORTED,FALSE
+PEA-018,work:6f46f2ff4c7fa6ec,baseline_df_ge_3_covered,PASS,nation branding,DIRECTLY_SUPPORTED,FALSE
+PEA-018,work:6f46f2ff4c7fa6ec,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-018,work:6f46f2ff4c7fa6ec,baseline_df_ge_3_covered,PASS,business diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-018,work:6f46f2ff4c7fa6ec,baseline_df_ge_3_covered,PASS,multistakeholder collaboration,DIRECTLY_SUPPORTED,FALSE
+PEA-019,work:74fb93f92baaca3d,baseline_df_ge_3_covered,MINOR_ISSUE,cultural soft power,DIRECTLY_SUPPORTED,FALSE
+PEA-019,work:74fb93f92baaca3d,baseline_df_ge_3_covered,MINOR_ISSUE,national appeal influence cohesion,SEMANTICALLY_SUPPORTED,FALSE
+PEA-019,work:74fb93f92baaca3d,baseline_df_ge_3_covered,MINOR_ISSUE,cultural resources,DIRECTLY_SUPPORTED,FALSE
+PEA-019,work:74fb93f92baaca3d,baseline_df_ge_3_covered,MINOR_ISSUE,state governance,UNSUPPORTED,FALSE
+PEA-019,work:74fb93f92baaca3d,baseline_df_ge_3_covered,MINOR_ISSUE,community of shared future,DIRECTLY_SUPPORTED,FALSE
+PEA-019,work:74fb93f92baaca3d,baseline_df_ge_3_covered,MINOR_ISSUE,Belt and Road development,DIRECTLY_SUPPORTED,FALSE
+PEA-020,work:bc3dafa81ff73d75,baseline_df_ge_3_covered,PASS,cultural influences,SEMANTICALLY_SUPPORTED,FALSE
+PEA-020,work:bc3dafa81ff73d75,baseline_df_ge_3_covered,PASS,economic influences,SEMANTICALLY_SUPPORTED,FALSE
+PEA-020,work:bc3dafa81ff73d75,baseline_df_ge_3_covered,PASS,political influences,DIRECTLY_SUPPORTED,FALSE
+PEA-020,work:bc3dafa81ff73d75,baseline_df_ge_3_covered,PASS,regional power games,DIRECTLY_SUPPORTED,FALSE
+PEA-020,work:bc3dafa81ff73d75,baseline_df_ge_3_covered,PASS,cross-cultural audience,DIRECTLY_SUPPORTED,FALSE
+PEA-021,work:236de18f57d509fa,df2_extended_only,PASS,attraction in world politics,DIRECTLY_SUPPORTED,FALSE
+PEA-021,work:236de18f57d509fa,df2_extended_only,PASS,representational force,DIRECTLY_SUPPORTED,FALSE
+PEA-021,work:236de18f57d509fa,df2_extended_only,PASS,sociolinguistic construction,DIRECTLY_SUPPORTED,FALSE
+PEA-021,work:236de18f57d509fa,df2_extended_only,PASS,hard power juxtaposition,SEMANTICALLY_SUPPORTED,FALSE
+PEA-021,work:236de18f57d509fa,df2_extended_only,PASS,normative reformulations,DIRECTLY_SUPPORTED,FALSE
+PEA-022,work:96f9d0a33c057fb0,baseline_df_ge_3_covered,PASS,sports diplomacy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-022,work:96f9d0a33c057fb0,baseline_df_ge_3_covered,PASS,nation branding,DIRECTLY_SUPPORTED,FALSE
+PEA-022,work:96f9d0a33c057fb0,baseline_df_ge_3_covered,PASS,foreign policy goals,DIRECTLY_SUPPORTED,FALSE
+PEA-022,work:96f9d0a33c057fb0,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-022,work:96f9d0a33c057fb0,baseline_df_ge_3_covered,PASS,international relations,DIRECTLY_SUPPORTED,FALSE
+PEA-023,work:af2b910bbe4e3aa7,df2_extended_only,PASS,persuasive and ideational powers,DIRECTLY_SUPPORTED,FALSE
+PEA-023,work:af2b910bbe4e3aa7,df2_extended_only,PASS,regional geopolitics,DIRECTLY_SUPPORTED,FALSE
+PEA-023,work:af2b910bbe4e3aa7,df2_extended_only,PASS,transboundary hydropolitics,DIRECTLY_SUPPORTED,FALSE
+PEA-023,work:af2b910bbe4e3aa7,df2_extended_only,PASS,water diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-023,work:af2b910bbe4e3aa7,df2_extended_only,PASS,development approach export,DIRECTLY_SUPPORTED,FALSE
+PEA-023,work:af2b910bbe4e3aa7,df2_extended_only,PASS,common identity promotion,DIRECTLY_SUPPORTED,FALSE
+PEA-024,work:2eda35d9f3dba139,baseline_df_ge_3_covered,PASS,sports strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-024,work:2eda35d9f3dba139,baseline_df_ge_3_covered,PASS,diplomacy and modernization,SEMANTICALLY_SUPPORTED,FALSE
+PEA-024,work:2eda35d9f3dba139,baseline_df_ge_3_covered,PASS,global reputation alteration,SEMANTICALLY_SUPPORTED,FALSE
+PEA-024,work:2eda35d9f3dba139,baseline_df_ge_3_covered,PASS,sportswashing,DIRECTLY_SUPPORTED,FALSE
+PEA-024,work:2eda35d9f3dba139,baseline_df_ge_3_covered,PASS,engagement of foreign actors,DIRECTLY_SUPPORTED,FALSE
+PEA-025,work:cb8228bfcc9e2b08,df2_extended_only,PASS,European Union’s soft power,DIRECTLY_SUPPORTED,FALSE
+PEA-025,work:cb8228bfcc9e2b08,df2_extended_only,PASS,soft power decline,DIRECTLY_SUPPORTED,FALSE
+PEA-026,work:b1fced5c521d70d7,df2_extended_only,PASS,literary translation activities,DIRECTLY_SUPPORTED,FALSE
+PEA-026,work:b1fced5c521d70d7,df2_extended_only,PASS,cultivation of good political relations,DIRECTLY_SUPPORTED,FALSE
+PEA-026,work:b1fced5c521d70d7,df2_extended_only,PASS,promotion of Sino-African friendship,DIRECTLY_SUPPORTED,FALSE
+PEA-026,work:b1fced5c521d70d7,df2_extended_only,PASS,positive view of China,DIRECTLY_SUPPORTED,FALSE
+PEA-026,work:b1fced5c521d70d7,df2_extended_only,PASS,tools of soft power,DIRECTLY_SUPPORTED,FALSE
+PEA-026,work:b1fced5c521d70d7,df2_extended_only,PASS,translation studies,DIRECTLY_SUPPORTED,FALSE
+PEA-027,work:a3bcc713f0fec701,core_unassigned,PASS,Japanese security policy,DIRECTLY_SUPPORTED,FALSE
+PEA-027,work:a3bcc713f0fec701,core_unassigned,PASS,U.S.-Japan alliance,DIRECTLY_SUPPORTED,FALSE
+PEA-027,work:a3bcc713f0fec701,core_unassigned,PASS,Japanese culture,DIRECTLY_SUPPORTED,FALSE
+PEA-027,work:a3bcc713f0fec701,core_unassigned,PASS,domestic achievements,DIRECTLY_SUPPORTED,FALSE
+PEA-027,work:a3bcc713f0fec701,core_unassigned,PASS,foreign policy engagements,DIRECTLY_SUPPORTED,FALSE
+PEA-028,work:796761a959ae8111,baseline_df_ge_3_covered,PASS,national identity construction,DIRECTLY_SUPPORTED,FALSE
+PEA-028,work:796761a959ae8111,baseline_df_ge_3_covered,PASS,democracy freedom prosperity values,DIRECTLY_SUPPORTED,FALSE
+PEA-028,work:796761a959ae8111,baseline_df_ge_3_covered,PASS,international recognition strategy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-028,work:796761a959ae8111,baseline_df_ge_3_covered,PASS,attraction through policies,SEMANTICALLY_SUPPORTED,FALSE
+PEA-029,work:0371e86f67c9bd0a,baseline_df_ge_3_covered,MINOR_ISSUE,sports mega-events,SEMANTICALLY_SUPPORTED,FALSE
+PEA-029,work:0371e86f67c9bd0a,baseline_df_ge_3_covered,MINOR_ISSUE,international status,DIRECTLY_SUPPORTED,FALSE
+PEA-029,work:0371e86f67c9bd0a,baseline_df_ge_3_covered,MINOR_ISSUE,hard power resources,DIRECTLY_SUPPORTED,FALSE
+PEA-029,work:0371e86f67c9bd0a,baseline_df_ge_3_covered,MINOR_ISSUE,geographical metanarratives,SEMANTICALLY_SUPPORTED,FALSE
+PEA-029,work:0371e86f67c9bd0a,baseline_df_ge_3_covered,MINOR_ISSUE,nation identity,UNSUPPORTED,FALSE
+PEA-030,work:d286a55f390292b3,core_unassigned,PASS,organizational identification processes,DIRECTLY_SUPPORTED,FALSE
+PEA-030,work:d286a55f390292b3,core_unassigned,PASS,virtuous circle of willing support,DIRECTLY_SUPPORTED,FALSE
+PEA-030,work:d286a55f390292b3,core_unassigned,PASS,reinforcement mechanism,DIRECTLY_SUPPORTED,FALSE
+PEA-030,work:d286a55f390292b3,core_unassigned,PASS,stakeholder role in identification,DIRECTLY_SUPPORTED,FALSE
+PEA-031,work:950ed87733680c98,baseline_df_ge_3_covered,PASS,diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-031,work:950ed87733680c98,baseline_df_ge_3_covered,PASS,cultural exchange,DIRECTLY_SUPPORTED,FALSE
+PEA-031,work:950ed87733680c98,baseline_df_ge_3_covered,PASS,development assistance,DIRECTLY_SUPPORTED,FALSE
+PEA-031,work:950ed87733680c98,baseline_df_ge_3_covered,PASS,interfaith dialogue,DIRECTLY_SUPPORTED,FALSE
+PEA-031,work:950ed87733680c98,baseline_df_ge_3_covered,PASS,peacebuilding,DIRECTLY_SUPPORTED,FALSE
+PEA-031,work:950ed87733680c98,baseline_df_ge_3_covered,PASS,economic cooperation,DIRECTLY_SUPPORTED,FALSE
+PEA-032,work:faba2a30357910c3,baseline_df_ge_3_covered,PASS,China's strategic discourse,DIRECTLY_SUPPORTED,FALSE
+PEA-032,work:faba2a30357910c3,baseline_df_ge_3_covered,PASS,non-coercive strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-032,work:faba2a30357910c3,baseline_df_ge_3_covered,PASS,culture transmission,DIRECTLY_SUPPORTED,FALSE
+PEA-032,work:faba2a30357910c3,baseline_df_ge_3_covered,PASS,leadership in developing world,SEMANTICALLY_SUPPORTED,FALSE
+PEA-032,work:faba2a30357910c3,baseline_df_ge_3_covered,PASS,reassurance to states,DIRECTLY_SUPPORTED,FALSE
+PEA-033,work:c1f56c066feebd86,df2_extended_only,PASS,EU water diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-033,work:c1f56c066feebd86,df2_extended_only,PASS,global environmental governance,DIRECTLY_SUPPORTED,FALSE
+PEA-033,work:c1f56c066feebd86,df2_extended_only,PASS,normative and transformative leadership,DIRECTLY_SUPPORTED,FALSE
+PEA-033,work:c1f56c066feebd86,df2_extended_only,PASS,multilateralism and international law,SEMANTICALLY_SUPPORTED,FALSE
+PEA-033,work:c1f56c066feebd86,df2_extended_only,PASS,civil society participation,SEMANTICALLY_SUPPORTED,FALSE
+PEA-035,work:283cb780a10ddee3,baseline_df_ge_3_covered,PASS,higher education,DIRECTLY_SUPPORTED,FALSE
+PEA-035,work:283cb780a10ddee3,baseline_df_ge_3_covered,PASS,Confucius Institutes,DIRECTLY_SUPPORTED,FALSE
+PEA-035,work:283cb780a10ddee3,baseline_df_ge_3_covered,PASS,winning hearts and minds,DIRECTLY_SUPPORTED,FALSE
+PEA-035,work:283cb780a10ddee3,baseline_df_ge_3_covered,PASS,non-material aspects of connectivity,SEMANTICALLY_SUPPORTED,FALSE
+PEA-036,work:aae5e296a953218e,baseline_df_ge_3_covered,PASS,philosemitism and Chinese-Jewish history,SEMANTICALLY_SUPPORTED,FALSE
+PEA-036,work:aae5e296a953218e,baseline_df_ge_3_covered,PASS,China-Israel relations,DIRECTLY_SUPPORTED,FALSE
+PEA-036,work:aae5e296a953218e,baseline_df_ge_3_covered,PASS,Chinese nationalism,DIRECTLY_SUPPORTED,FALSE
+PEA-036,work:aae5e296a953218e,baseline_df_ge_3_covered,PASS,civilizationist narrative,DIRECTLY_SUPPORTED,FALSE
+PEA-036,work:aae5e296a953218e,baseline_df_ge_3_covered,PASS,Belt and Road Initiative,DIRECTLY_SUPPORTED,FALSE
+PEA-037,work:012b2a0a00c61d21,core_unassigned,PASS,academic cultures,DIRECTLY_SUPPORTED,FALSE
+PEA-037,work:012b2a0a00c61d21,core_unassigned,PASS,university ideals,DIRECTLY_SUPPORTED,FALSE
+PEA-037,work:012b2a0a00c61d21,core_unassigned,PASS,institutional autonomy,DIRECTLY_SUPPORTED,FALSE
+PEA-037,work:012b2a0a00c61d21,core_unassigned,PASS,transnational activities,DIRECTLY_SUPPORTED,FALSE
+PEA-037,work:012b2a0a00c61d21,core_unassigned,PASS,Commonwealth bonds,DIRECTLY_SUPPORTED,FALSE
+PEA-038,work:a47f5780415175f7,df2_extended_only,PASS,discursive dimensions of power,DIRECTLY_SUPPORTED,FALSE
+PEA-038,work:a47f5780415175f7,df2_extended_only,PASS,ideological dimensions of power,DIRECTLY_SUPPORTED,FALSE
+PEA-038,work:a47f5780415175f7,df2_extended_only,PASS,non-coercive ways of justification,DIRECTLY_SUPPORTED,FALSE
+PEA-038,work:a47f5780415175f7,df2_extended_only,PASS,international diplomacy and narratives,DIRECTLY_SUPPORTED,FALSE
+PEA-038,work:a47f5780415175f7,df2_extended_only,PASS,transboundary water outcomes,DIRECTLY_SUPPORTED,FALSE
+PEA-038,work:a47f5780415175f7,df2_extended_only,PASS,hydraulic development legitimization,SEMANTICALLY_SUPPORTED,FALSE
+PEA-039,work:9610540d5392abe3,core_unassigned,PASS,education policy reforms,SEMANTICALLY_SUPPORTED,FALSE
+PEA-039,work:9610540d5392abe3,core_unassigned,PASS,human resources strength,SEMANTICALLY_SUPPORTED,FALSE
+PEA-039,work:9610540d5392abe3,core_unassigned,PASS,international educational collaborations,SEMANTICALLY_SUPPORTED,FALSE
+PEA-039,work:9610540d5392abe3,core_unassigned,PASS,migrant workers' children education,SEMANTICALLY_SUPPORTED,FALSE
+PEA-040,work:57efcb1bab7e8e99,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-040,work:57efcb1bab7e8e99,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-040,work:57efcb1bab7e8e99,baseline_df_ge_3_covered,PASS,training programmes,DIRECTLY_SUPPORTED,FALSE
+PEA-040,work:57efcb1bab7e8e99,baseline_df_ge_3_covered,PASS,human capital building,DIRECTLY_SUPPORTED,FALSE
+PEA-040,work:57efcb1bab7e8e99,baseline_df_ge_3_covered,PASS,educational seminars,DIRECTLY_SUPPORTED,FALSE
+PEA-041,work:6c47d6761ffc5e13,baseline_df_ge_3_covered,PASS,cultural rapprochement,DIRECTLY_SUPPORTED,FALSE
+PEA-041,work:6c47d6761ffc5e13,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-041,work:6c47d6761ffc5e13,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-041,work:6c47d6761ffc5e13,baseline_df_ge_3_covered,PASS,Confucius Institute,DIRECTLY_SUPPORTED,FALSE
+PEA-041,work:6c47d6761ffc5e13,baseline_df_ge_3_covered,PASS,education and Muslim community,DIRECTLY_SUPPORTED,FALSE
+PEA-041,work:6c47d6761ffc5e13,baseline_df_ge_3_covered,PASS,Chinese-Indonesian business community,DIRECTLY_SUPPORTED,FALSE
+PEA-042,work:51b5a06dc23c2dae,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-042,work:51b5a06dc23c2dae,baseline_df_ge_3_covered,PASS,International Relations research,DIRECTLY_SUPPORTED,FALSE
+PEA-042,work:51b5a06dc23c2dae,baseline_df_ge_3_covered,PASS,methodological application,DIRECTLY_SUPPORTED,FALSE
+PEA-042,work:51b5a06dc23c2dae,baseline_df_ge_3_covered,PASS,concept definitions,DIRECTLY_SUPPORTED,FALSE
+PEA-042,work:51b5a06dc23c2dae,baseline_df_ge_3_covered,PASS,political-historical context,DIRECTLY_SUPPORTED,FALSE
+PEA-042,work:51b5a06dc23c2dae,baseline_df_ge_3_covered,PASS,practical application problems,DIRECTLY_SUPPORTED,FALSE
+PEA-043,work:48ef59ed81a65320,baseline_df_ge_3_covered,PASS,cultural influence,DIRECTLY_SUPPORTED,FALSE
+PEA-043,work:48ef59ed81a65320,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-043,work:48ef59ed81a65320,baseline_df_ge_3_covered,PASS,historical factors,DIRECTLY_SUPPORTED,FALSE
+PEA-043,work:48ef59ed81a65320,baseline_df_ge_3_covered,PASS,Western European interest,SEMANTICALLY_SUPPORTED,FALSE
+PEA-043,work:48ef59ed81a65320,baseline_df_ge_3_covered,PASS,Latin American market,DIRECTLY_SUPPORTED,FALSE
+PEA-044,work:aed6b1dbde9234de,baseline_df_ge_3_covered,PASS,real estate markets,DIRECTLY_SUPPORTED,FALSE
+PEA-044,work:aed6b1dbde9234de,baseline_df_ge_3_covered,PASS,state-led mega-projects,DIRECTLY_SUPPORTED,FALSE
+PEA-044,work:aed6b1dbde9234de,baseline_df_ge_3_covered,PASS,geopolitical circulations,DIRECTLY_SUPPORTED,FALSE
+PEA-044,work:aed6b1dbde9234de,baseline_df_ge_3_covered,PASS,international relations,DIRECTLY_SUPPORTED,FALSE
+PEA-044,work:aed6b1dbde9234de,baseline_df_ge_3_covered,PASS,assemblage theory,DIRECTLY_SUPPORTED,FALSE
+PEA-045,work:849331c951b3f511,baseline_df_ge_3_covered,PASS,cultural institutes,SEMANTICALLY_SUPPORTED,FALSE
+PEA-045,work:849331c951b3f511,baseline_df_ge_3_covered,PASS,nation branding,DIRECTLY_SUPPORTED,FALSE
+PEA-045,work:849331c951b3f511,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-045,work:849331c951b3f511,baseline_df_ge_3_covered,PASS,national narratives,DIRECTLY_SUPPORTED,FALSE
+PEA-045,work:849331c951b3f511,baseline_df_ge_3_covered,PASS,strategic interests,DIRECTLY_SUPPORTED,FALSE
+PEA-046,work:4f706cb2485c7235,baseline_df_ge_3_covered,PASS,paradiplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-046,work:4f706cb2485c7235,baseline_df_ge_3_covered,PASS,policy instruments,DIRECTLY_SUPPORTED,FALSE
+PEA-046,work:4f706cb2485c7235,baseline_df_ge_3_covered,PASS,global visibility,SEMANTICALLY_SUPPORTED,FALSE
+PEA-046,work:4f706cb2485c7235,baseline_df_ge_3_covered,PASS,civil society values,SEMANTICALLY_SUPPORTED,FALSE
+PEA-046,work:4f706cb2485c7235,baseline_df_ge_3_covered,PASS,strategic investments,DIRECTLY_SUPPORTED,FALSE
+PEA-046,work:4f706cb2485c7235,baseline_df_ge_3_covered,PASS,legitimacy of One Country Two Systems,DIRECTLY_SUPPORTED,FALSE
+PEA-047,work:a748c35fbf1afbfb,baseline_df_ge_3_covered,PASS,foreign policies of great powers,DIRECTLY_SUPPORTED,FALSE
+PEA-047,work:a748c35fbf1afbfb,baseline_df_ge_3_covered,PASS,international image building,DIRECTLY_SUPPORTED,FALSE
+PEA-047,work:a748c35fbf1afbfb,baseline_df_ge_3_covered,PASS,cultural and civilisational links,DIRECTLY_SUPPORTED,FALSE
+PEA-047,work:a748c35fbf1afbfb,baseline_df_ge_3_covered,PASS,public diplomacy practice,SEMANTICALLY_SUPPORTED,FALSE
+PEA-047,work:a748c35fbf1afbfb,baseline_df_ge_3_covered,PASS,Act East Policy implications,SEMANTICALLY_SUPPORTED,FALSE
+PEA-048,work:2c57523a63b4efa8,baseline_df_ge_3_covered,PASS,images and perceived importance,SEMANTICALLY_SUPPORTED,FALSE
+PEA-048,work:2c57523a63b4efa8,baseline_df_ge_3_covered,PASS,effectiveness of EU's action,SEMANTICALLY_SUPPORTED,FALSE
+PEA-048,work:2c57523a63b4efa8,baseline_df_ge_3_covered,PASS,public perceptions of the EU,DIRECTLY_SUPPORTED,FALSE
+PEA-048,work:2c57523a63b4efa8,baseline_df_ge_3_covered,PASS,foreign policy agenda,DIRECTLY_SUPPORTED,FALSE
+PEA-049,work:6ac92b02ec0aa533,df2_extended_only,PASS,South-South development cooperation,SEMANTICALLY_SUPPORTED,FALSE
+PEA-049,work:6ac92b02ec0aa533,df2_extended_only,PASS,city-to-city technical assistance,SEMANTICALLY_SUPPORTED,FALSE
+PEA-049,work:6ac92b02ec0aa533,df2_extended_only,PASS,positive image and goodwill,SEMANTICALLY_SUPPORTED,FALSE
+PEA-049,work:6ac92b02ec0aa533,df2_extended_only,PASS,Brazil's global recognition,SEMANTICALLY_SUPPORTED,FALSE
+PEA-049,work:6ac92b02ec0aa533,df2_extended_only,PASS,developmental value of cooperation,SEMANTICALLY_SUPPORTED,FALSE
+PEA-050,work:b90095bbf010e9ea,baseline_df_ge_3_covered,PARTIAL,desecuritised narratives,DIRECTLY_SUPPORTED,TRUE
+PEA-050,work:b90095bbf010e9ea,baseline_df_ge_3_covered,PARTIAL,normative influence,DIRECTLY_SUPPORTED,TRUE
+PEA-050,work:b90095bbf010e9ea,baseline_df_ge_3_covered,PARTIAL,political transformations,DIRECTLY_SUPPORTED,TRUE
+PEA-050,work:b90095bbf010e9ea,baseline_df_ge_3_covered,PARTIAL,regional dynamics,DIRECTLY_SUPPORTED,TRUE
+PEA-050,work:b90095bbf010e9ea,baseline_df_ge_3_covered,PARTIAL,recipient audiences,DIRECTLY_SUPPORTED,TRUE
+PEA-051,work:32c893ddbc21829f,df2_extended_only,PASS,financial diplomacy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-051,work:32c893ddbc21829f,df2_extended_only,PASS,dollar-dominated financial system dependence,DIRECTLY_SUPPORTED,FALSE
+PEA-051,work:32c893ddbc21829f,df2_extended_only,PASS,multipolar system building,DIRECTLY_SUPPORTED,FALSE
+PEA-051,work:32c893ddbc21829f,df2_extended_only,PASS,economic relationships,DIRECTLY_SUPPORTED,FALSE
+PEA-051,work:32c893ddbc21829f,df2_extended_only,PASS,cultural relationships,DIRECTLY_SUPPORTED,FALSE
+PEA-051,work:32c893ddbc21829f,df2_extended_only,PASS,post-Soviet integration,DIRECTLY_SUPPORTED,FALSE
+PEA-052,work:fbce672e7145da1c,baseline_df_ge_3_covered,PASS,economic statecraft,DIRECTLY_SUPPORTED,FALSE
+PEA-052,work:fbce672e7145da1c,baseline_df_ge_3_covered,PASS,relative bargaining power,DIRECTLY_SUPPORTED,FALSE
+PEA-052,work:fbce672e7145da1c,baseline_df_ge_3_covered,PASS,vulnerability to economic holdup,DIRECTLY_SUPPORTED,FALSE
+PEA-052,work:fbce672e7145da1c,baseline_df_ge_3_covered,PASS,cross-border signaling,DIRECTLY_SUPPORTED,FALSE
+PEA-052,work:fbce672e7145da1c,baseline_df_ge_3_covered,PASS,evolving domestic interests and influence,DIRECTLY_SUPPORTED,FALSE
+PEA-053,work:29a95c29f15a5010,baseline_df_ge_3_covered,PASS,Traditional Chinese Medicine,DIRECTLY_SUPPORTED,FALSE
+PEA-053,work:29a95c29f15a5010,baseline_df_ge_3_covered,PASS,China's global strategy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-053,work:29a95c29f15a5010,baseline_df_ge_3_covered,PASS,soft power strategies,DIRECTLY_SUPPORTED,FALSE
+PEA-054,work:96ddb9c397421e3b,df2_extended_only,PARTIAL,counterterrorism strategy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-054,work:96ddb9c397421e3b,df2_extended_only,PARTIAL,prevention approach,DIRECTLY_SUPPORTED,FALSE
+PEA-054,work:96ddb9c397421e3b,df2_extended_only,PARTIAL,security policy,UNSUPPORTED,FALSE
+PEA-055,work:748ed8d38db5a9dc,baseline_df_ge_3_covered,PASS,health diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-055,work:748ed8d38db5a9dc,baseline_df_ge_3_covered,PASS,vaccine diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-055,work:748ed8d38db5a9dc,baseline_df_ge_3_covered,PASS,humanitarian assistance,DIRECTLY_SUPPORTED,FALSE
+PEA-055,work:748ed8d38db5a9dc,baseline_df_ge_3_covered,PASS,geopolitical influence,DIRECTLY_SUPPORTED,FALSE
+PEA-055,work:748ed8d38db5a9dc,baseline_df_ge_3_covered,PASS,foreign policy tool,SEMANTICALLY_SUPPORTED,FALSE
+PEA-055,work:748ed8d38db5a9dc,baseline_df_ge_3_covered,PASS,global healthcare provider,DIRECTLY_SUPPORTED,FALSE
+PEA-056,work:415579eee8970de8,baseline_df_ge_3_covered,PARTIAL,communication strategies,DIRECTLY_SUPPORTED,TRUE
+PEA-056,work:415579eee8970de8,baseline_df_ge_3_covered,PARTIAL,strategic designs,DIRECTLY_SUPPORTED,TRUE
+PEA-056,work:415579eee8970de8,baseline_df_ge_3_covered,PARTIAL,cultural familiarity,DIRECTLY_SUPPORTED,TRUE
+PEA-056,work:415579eee8970de8,baseline_df_ge_3_covered,PARTIAL,Thai dance communications,DIRECTLY_SUPPORTED,TRUE
+PEA-056,work:415579eee8970de8,baseline_df_ge_3_covered,PARTIAL,evaluation system,DIRECTLY_SUPPORTED,TRUE
+PEA-057,work:22fe21b6d4e1c218,baseline_df_ge_3_covered,PASS,tourism as soft power resource,SEMANTICALLY_SUPPORTED,FALSE
+PEA-057,work:22fe21b6d4e1c218,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-057,work:22fe21b6d4e1c218,baseline_df_ge_3_covered,PASS,foreign policy goals,DIRECTLY_SUPPORTED,FALSE
+PEA-057,work:22fe21b6d4e1c218,baseline_df_ge_3_covered,PASS,normative power projection,SEMANTICALLY_SUPPORTED,FALSE
+PEA-057,work:22fe21b6d4e1c218,baseline_df_ge_3_covered,PASS,public diplomacy agencies,DIRECTLY_SUPPORTED,FALSE
+PEA-058,work:5fabcdc76590c7b5,baseline_df_ge_3_covered,PASS,grassroots sport,DIRECTLY_SUPPORTED,FALSE
+PEA-058,work:5fabcdc76590c7b5,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-058,work:5fabcdc76590c7b5,baseline_df_ge_3_covered,PASS,sport diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-058,work:5fabcdc76590c7b5,baseline_df_ge_3_covered,PASS,sport for development and peace,DIRECTLY_SUPPORTED,FALSE
+PEA-058,work:5fabcdc76590c7b5,baseline_df_ge_3_covered,PASS,people-to-people relations,DIRECTLY_SUPPORTED,FALSE
+PEA-058,work:5fabcdc76590c7b5,baseline_df_ge_3_covered,PASS,state-led public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-059,work:308cedee2ef17ae0,baseline_df_ge_3_covered,PASS,cultural policy,DIRECTLY_SUPPORTED,FALSE
+PEA-059,work:308cedee2ef17ae0,baseline_df_ge_3_covered,PASS,Korean Wave,DIRECTLY_SUPPORTED,FALSE
+PEA-059,work:308cedee2ef17ae0,baseline_df_ge_3_covered,PASS,South Korean literature,DIRECTLY_SUPPORTED,FALSE
+PEA-059,work:308cedee2ef17ae0,baseline_df_ge_3_covered,PASS,global dissemination,DIRECTLY_SUPPORTED,FALSE
+PEA-059,work:308cedee2ef17ae0,baseline_df_ge_3_covered,PASS,cultural content,DIRECTLY_SUPPORTED,FALSE
+PEA-060,work:2c7d332c58e5b829,baseline_df_ge_3_covered,PASS,international image-building,DIRECTLY_SUPPORTED,FALSE
+PEA-060,work:2c7d332c58e5b829,baseline_df_ge_3_covered,PASS,foreign affairs system,DIRECTLY_SUPPORTED,FALSE
+PEA-060,work:2c7d332c58e5b829,baseline_df_ge_3_covered,PASS,techniques of hospitality,DIRECTLY_SUPPORTED,FALSE
+PEA-060,work:2c7d332c58e5b829,baseline_df_ge_3_covered,PASS,foreign guest tours,SEMANTICALLY_SUPPORTED,FALSE
+PEA-060,work:2c7d332c58e5b829,baseline_df_ge_3_covered,PASS,international political dividends,DIRECTLY_SUPPORTED,FALSE
+PEA-061,work:67b3e5f11736997d,baseline_df_ge_3_covered,PARTIAL,Chinese media expansion,DIRECTLY_SUPPORTED,TRUE
+PEA-061,work:67b3e5f11736997d,baseline_df_ge_3_covered,PARTIAL,African public opinion,DIRECTLY_SUPPORTED,TRUE
+PEA-061,work:67b3e5f11736997d,baseline_df_ge_3_covered,PARTIAL,media effects,DIRECTLY_SUPPORTED,TRUE
+PEA-061,work:67b3e5f11736997d,baseline_df_ge_3_covered,PARTIAL,diplomacy,UNSUPPORTED,TRUE
+PEA-061,work:67b3e5f11736997d,baseline_df_ge_3_covered,PARTIAL,comparative research,DIRECTLY_SUPPORTED,TRUE
+PEA-062,work:21e41a013f9c6872,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-062,work:21e41a013f9c6872,baseline_df_ge_3_covered,PASS,information and communication technologies,DIRECTLY_SUPPORTED,FALSE
+PEA-062,work:21e41a013f9c6872,baseline_df_ge_3_covered,PASS,humanitarian assistance,DIRECTLY_SUPPORTED,FALSE
+PEA-062,work:21e41a013f9c6872,baseline_df_ge_3_covered,PASS,cultural initiatives,DIRECTLY_SUPPORTED,FALSE
+PEA-062,work:21e41a013f9c6872,baseline_df_ge_3_covered,PASS,civil society interactions,DIRECTLY_SUPPORTED,FALSE
+PEA-062,work:21e41a013f9c6872,baseline_df_ge_3_covered,PASS,religious dialogues,DIRECTLY_SUPPORTED,FALSE
+PEA-063,work:84f2e19ac84d3879,df2_extended_only,PASS,media business dynamics,DIRECTLY_SUPPORTED,FALSE
+PEA-063,work:84f2e19ac84d3879,df2_extended_only,PASS,political and ideological relations,DIRECTLY_SUPPORTED,FALSE
+PEA-063,work:84f2e19ac84d3879,df2_extended_only,PASS,cultural proximity limits,DIRECTLY_SUPPORTED,FALSE
+PEA-063,work:84f2e19ac84d3879,df2_extended_only,PASS,glocal flexibility,DIRECTLY_SUPPORTED,FALSE
+PEA-063,work:84f2e19ac84d3879,df2_extended_only,PASS,market articulations,DIRECTLY_SUPPORTED,FALSE
+PEA-064,work:d53104d76e4118a0,baseline_df_ge_3_covered,PASS,advocacy networks,DIRECTLY_SUPPORTED,FALSE
+PEA-064,work:d53104d76e4118a0,baseline_df_ge_3_covered,PASS,soft power strategies,DIRECTLY_SUPPORTED,FALSE
+PEA-064,work:d53104d76e4118a0,baseline_df_ge_3_covered,PASS,political and social landscape,DIRECTLY_SUPPORTED,FALSE
+PEA-064,work:d53104d76e4118a0,baseline_df_ge_3_covered,PASS,multidisciplinary approach,DIRECTLY_SUPPORTED,FALSE
+PEA-064,work:d53104d76e4118a0,baseline_df_ge_3_covered,PASS,scales of action and interaction,DIRECTLY_SUPPORTED,FALSE
+PEA-064,work:d53104d76e4118a0,baseline_df_ge_3_covered,PASS,cultural contexts and legacies,DIRECTLY_SUPPORTED,FALSE
+PEA-065,work:035e6264bbbbbd03,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-065,work:035e6264bbbbbd03,baseline_df_ge_3_covered,PASS,soft power projection,DIRECTLY_SUPPORTED,FALSE
+PEA-065,work:035e6264bbbbbd03,baseline_df_ge_3_covered,PASS,dance exchange,DIRECTLY_SUPPORTED,FALSE
+PEA-065,work:035e6264bbbbbd03,baseline_df_ge_3_covered,PASS,intercultural dialogue,DIRECTLY_SUPPORTED,FALSE
+PEA-065,work:035e6264bbbbbd03,baseline_df_ge_3_covered,PASS,cross-cultural understanding,DIRECTLY_SUPPORTED,FALSE
+PEA-066,work:f97b84f620b16f4d,baseline_df_ge_3_covered,PASS,evaluation practices,DIRECTLY_SUPPORTED,FALSE
+PEA-066,work:f97b84f620b16f4d,baseline_df_ge_3_covered,PASS,organizational and power structures,DIRECTLY_SUPPORTED,FALSE
+PEA-066,work:f97b84f620b16f4d,baseline_df_ge_3_covered,PASS,contextualized perspective,DIRECTLY_SUPPORTED,FALSE
+PEA-066,work:f97b84f620b16f4d,baseline_df_ge_3_covered,PASS,public diplomacy activities,SEMANTICALLY_SUPPORTED,FALSE
+PEA-066,work:f97b84f620b16f4d,baseline_df_ge_3_covered,PASS,nation brands,DIRECTLY_SUPPORTED,FALSE
+PEA-066,work:f97b84f620b16f4d,baseline_df_ge_3_covered,PASS,communication and evaluation,DIRECTLY_SUPPORTED,FALSE
+PEA-067,work:55aeabc9a00750bb,baseline_df_ge_3_covered,PASS,foreign policy analysis,DIRECTLY_SUPPORTED,FALSE
+PEA-067,work:55aeabc9a00750bb,baseline_df_ge_3_covered,PASS,moral authority,DIRECTLY_SUPPORTED,FALSE
+PEA-067,work:55aeabc9a00750bb,baseline_df_ge_3_covered,PASS,regional power status,SEMANTICALLY_SUPPORTED,FALSE
+PEA-067,work:55aeabc9a00750bb,baseline_df_ge_3_covered,PASS,symbolic representivity narrative,DIRECTLY_SUPPORTED,FALSE
+PEA-067,work:55aeabc9a00750bb,baseline_df_ge_3_covered,PASS,global reputation and influence,SEMANTICALLY_SUPPORTED,FALSE
+PEA-068,work:88cdcb1ab40b47bf,df2_extended_only,PASS,Obama's global popularity,DIRECTLY_SUPPORTED,FALSE
+PEA-068,work:88cdcb1ab40b47bf,df2_extended_only,PASS,U.S. values,DIRECTLY_SUPPORTED,FALSE
+PEA-068,work:88cdcb1ab40b47bf,df2_extended_only,PASS,Chinese nationalist sentiment,DIRECTLY_SUPPORTED,FALSE
+PEA-068,work:88cdcb1ab40b47bf,df2_extended_only,PASS,limitations to Obamania in China,SEMANTICALLY_SUPPORTED,FALSE
+PEA-069,work:bacf88f390aad7e9,df2_extended_only,PASS,Bollywood's symbolic resource function,SEMANTICALLY_SUPPORTED,FALSE
+PEA-069,work:bacf88f390aad7e9,df2_extended_only,PASS,diasporic identity construction,SEMANTICALLY_SUPPORTED,FALSE
+PEA-069,work:bacf88f390aad7e9,df2_extended_only,PASS,mediatization of Hindu femininity,SEMANTICALLY_SUPPORTED,FALSE
+PEA-069,work:bacf88f390aad7e9,df2_extended_only,PASS,neoliberalization and Hindu nationalism amplification,SEMANTICALLY_SUPPORTED,FALSE
+PEA-069,work:bacf88f390aad7e9,df2_extended_only,PASS,globalized Hindu femininity construction,SEMANTICALLY_SUPPORTED,FALSE
+PEA-070,work:866d6a848cb71433,baseline_df_ge_3_covered,MINOR_ISSUE,Confucius Institutes,DIRECTLY_SUPPORTED,FALSE
+PEA-070,work:866d6a848cb71433,baseline_df_ge_3_covered,MINOR_ISSUE,international language and culture promotion,DIRECTLY_SUPPORTED,FALSE
+PEA-070,work:866d6a848cb71433,baseline_df_ge_3_covered,MINOR_ISSUE,decentralisation strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-070,work:866d6a848cb71433,baseline_df_ge_3_covered,MINOR_ISSUE,cultural influence,SEMANTICALLY_SUPPORTED,FALSE
+PEA-070,work:866d6a848cb71433,baseline_df_ge_3_covered,MINOR_ISSUE,power relations,UNSUPPORTED,FALSE
+PEA-071,work:8c2220c09cd6a04d,baseline_df_ge_3_covered,PASS,geocultural politics,DIRECTLY_SUPPORTED,FALSE
+PEA-071,work:8c2220c09cd6a04d,baseline_df_ge_3_covered,PASS,soft-power diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-071,work:8c2220c09cd6a04d,baseline_df_ge_3_covered,PASS,cultural propaganda campaign,DIRECTLY_SUPPORTED,FALSE
+PEA-071,work:8c2220c09cd6a04d,baseline_df_ge_3_covered,PASS,reinvent Russian identity,DIRECTLY_SUPPORTED,FALSE
+PEA-071,work:8c2220c09cd6a04d,baseline_df_ge_3_covered,PASS,restore Russia's global status,DIRECTLY_SUPPORTED,FALSE
+PEA-072,work:6c91909161c6f2e4,baseline_df_ge_3_covered,PASS,foreign policy tools,DIRECTLY_SUPPORTED,FALSE
+PEA-072,work:6c91909161c6f2e4,baseline_df_ge_3_covered,PASS,regional dominance competition,DIRECTLY_SUPPORTED,FALSE
+PEA-072,work:6c91909161c6f2e4,baseline_df_ge_3_covered,PASS,economic diversification strategy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-072,work:6c91909161c6f2e4,baseline_df_ge_3_covered,PASS,socio-cultural liberalization,DIRECTLY_SUPPORTED,FALSE
+PEA-072,work:6c91909161c6f2e4,baseline_df_ge_3_covered,PASS,international prestige building,SEMANTICALLY_SUPPORTED,FALSE
+PEA-072,work:6c91909161c6f2e4,baseline_df_ge_3_covered,PASS,sportswashing applications,DIRECTLY_SUPPORTED,FALSE
+PEA-073,work:194e9c467efb109d,baseline_df_ge_3_covered,PASS,development assistance,DIRECTLY_SUPPORTED,FALSE
+PEA-073,work:194e9c467efb109d,baseline_df_ge_3_covered,PASS,religious education support,DIRECTLY_SUPPORTED,FALSE
+PEA-073,work:194e9c467efb109d,baseline_df_ge_3_covered,PASS,religious infrastructure reconstruction,DIRECTLY_SUPPORTED,FALSE
+PEA-073,work:194e9c467efb109d,baseline_df_ge_3_covered,PASS,Gulf states motivations,DIRECTLY_SUPPORTED,FALSE
+PEA-073,work:194e9c467efb109d,baseline_df_ge_3_covered,PASS,local community effects,DIRECTLY_SUPPORTED,FALSE
+PEA-073,work:194e9c467efb109d,baseline_df_ge_3_covered,PASS,state reaction to threats,DIRECTLY_SUPPORTED,FALSE
+PEA-074,work:8815a0ca08a414df,df2_extended_only,PASS,Japanese pop culture franchises,DIRECTLY_SUPPORTED,FALSE
+PEA-074,work:8815a0ca08a414df,df2_extended_only,PASS,fictionality-based tactics,DIRECTLY_SUPPORTED,FALSE
+PEA-074,work:8815a0ca08a414df,df2_extended_only,PASS,transnational circulation of franchises,DIRECTLY_SUPPORTED,FALSE
+PEA-074,work:8815a0ca08a414df,df2_extended_only,PASS,government exploitation of animation,DIRECTLY_SUPPORTED,FALSE
+PEA-074,work:8815a0ca08a414df,df2_extended_only,PASS,display of official Japaneseness,DIRECTLY_SUPPORTED,FALSE
+PEA-074,work:8815a0ca08a414df,df2_extended_only,PASS,promotion of country's appeal,DIRECTLY_SUPPORTED,FALSE
+PEA-075,work:1208f204a9582c3b,baseline_df_ge_3_covered,PASS,Turkish TV series popularity,SEMANTICALLY_SUPPORTED,FALSE
+PEA-075,work:1208f204a9582c3b,baseline_df_ge_3_covered,PASS,perception of Turkey,DIRECTLY_SUPPORTED,FALSE
+PEA-075,work:1208f204a9582c3b,baseline_df_ge_3_covered,PASS,cultural influence,SEMANTICALLY_SUPPORTED,FALSE
+PEA-075,work:1208f204a9582c3b,baseline_df_ge_3_covered,PASS,Generation Z in South Africa,DIRECTLY_SUPPORTED,FALSE
+PEA-076,work:61d59aa5db575534,baseline_df_ge_3_covered,PASS,STEM higher education,DIRECTLY_SUPPORTED,FALSE
+PEA-076,work:61d59aa5db575534,baseline_df_ge_3_covered,PASS,STEM immigration,DIRECTLY_SUPPORTED,FALSE
+PEA-076,work:61d59aa5db575534,baseline_df_ge_3_covered,PASS,media framing,DIRECTLY_SUPPORTED,FALSE
+PEA-076,work:61d59aa5db575534,baseline_df_ge_3_covered,PASS,geopolitical competition,SEMANTICALLY_SUPPORTED,FALSE
+PEA-076,work:61d59aa5db575534,baseline_df_ge_3_covered,PASS,technological superiority,DIRECTLY_SUPPORTED,FALSE
+PEA-076,work:61d59aa5db575534,baseline_df_ge_3_covered,PASS,public diplomacy,SEMANTICALLY_SUPPORTED,FALSE
+PEA-077,work:499abd2fa7b666be,baseline_df_ge_3_covered,PASS,"culture, values, and policies",DIRECTLY_SUPPORTED,FALSE
+PEA-077,work:499abd2fa7b666be,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-077,work:499abd2fa7b666be,baseline_df_ge_3_covered,PASS,smart power strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-077,work:499abd2fa7b666be,baseline_df_ge_3_covered,PASS,"credibility, self-criticism, and civil society",DIRECTLY_SUPPORTED,FALSE
+PEA-078,work:b87939dab3debbb3,baseline_df_ge_3_covered,PARTIAL,leadership lessons,SEMANTICALLY_SUPPORTED,FALSE
+PEA-078,work:b87939dab3debbb3,baseline_df_ge_3_covered,PARTIAL,Iraq experience analysis,SEMANTICALLY_SUPPORTED,FALSE
+PEA-078,work:b87939dab3debbb3,baseline_df_ge_3_covered,PARTIAL,international relations strategy,UNSUPPORTED,FALSE
+PEA-079,work:97e80fde3ff2990b,baseline_df_ge_3_covered,PASS,Islamic public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-079,work:97e80fde3ff2990b,baseline_df_ge_3_covered,PASS,moderate Islam promotion,DIRECTLY_SUPPORTED,FALSE
+PEA-079,work:97e80fde3ff2990b,baseline_df_ge_3_covered,PASS,Track II diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-079,work:97e80fde3ff2990b,baseline_df_ge_3_covered,PASS,religious authority and identity,DIRECTLY_SUPPORTED,FALSE
+PEA-079,work:97e80fde3ff2990b,baseline_df_ge_3_covered,PASS,state and civil society efforts,DIRECTLY_SUPPORTED,FALSE
+PEA-080,work:7149f0e5d6587235,baseline_df_ge_3_covered,PASS,strategic narratives,DIRECTLY_SUPPORTED,FALSE
+PEA-080,work:7149f0e5d6587235,baseline_df_ge_3_covered,PASS,norm translation,DIRECTLY_SUPPORTED,FALSE
+PEA-080,work:7149f0e5d6587235,baseline_df_ge_3_covered,PASS,feminist foreign policy,DIRECTLY_SUPPORTED,FALSE
+PEA-080,work:7149f0e5d6587235,baseline_df_ge_3_covered,PASS,international norms,DIRECTLY_SUPPORTED,FALSE
+PEA-080,work:7149f0e5d6587235,baseline_df_ge_3_covered,PASS,gender inequality,DIRECTLY_SUPPORTED,FALSE
+PEA-081,work:b65efde69202417d,baseline_df_ge_3_covered,PASS,US-China rivalry,DIRECTLY_SUPPORTED,FALSE
+PEA-081,work:b65efde69202417d,baseline_df_ge_3_covered,PASS,anti-virus approaches,DIRECTLY_SUPPORTED,FALSE
+PEA-081,work:b65efde69202417d,baseline_df_ge_3_covered,PASS,policy preferences,DIRECTLY_SUPPORTED,FALSE
+PEA-081,work:b65efde69202417d,baseline_df_ge_3_covered,PASS,public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-081,work:b65efde69202417d,baseline_df_ge_3_covered,PASS,international relations,DIRECTLY_SUPPORTED,FALSE
+PEA-081,work:b65efde69202417d,baseline_df_ge_3_covered,PASS,secondary countries,DIRECTLY_SUPPORTED,FALSE
+PEA-082,work:35a794c09f181cf9,baseline_df_ge_3_covered,PASS,digital public diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-082,work:35a794c09f181cf9,baseline_df_ge_3_covered,PASS,soft power resources,DIRECTLY_SUPPORTED,FALSE
+PEA-082,work:35a794c09f181cf9,baseline_df_ge_3_covered,PASS,diplomatic communication,DIRECTLY_SUPPORTED,FALSE
+PEA-082,work:35a794c09f181cf9,baseline_df_ge_3_covered,PASS,embassy websites,DIRECTLY_SUPPORTED,FALSE
+PEA-082,work:35a794c09f181cf9,baseline_df_ge_3_covered,PASS,cultural tools,SEMANTICALLY_SUPPORTED,FALSE
+PEA-082,work:35a794c09f181cf9,baseline_df_ge_3_covered,PASS,Global South countries,DIRECTLY_SUPPORTED,FALSE
+PEA-083,work:4a6e9a674fb19a7e,df2_extended_only,PASS,nontraditional security cooperation,DIRECTLY_SUPPORTED,FALSE
+PEA-083,work:4a6e9a674fb19a7e,df2_extended_only,PASS,image as positive contributor,DIRECTLY_SUPPORTED,FALSE
+PEA-083,work:4a6e9a674fb19a7e,df2_extended_only,PASS,acceptance of diplomatic norms,DIRECTLY_SUPPORTED,FALSE
+PEA-083,work:4a6e9a674fb19a7e,df2_extended_only,PASS,regional agenda setting,DIRECTLY_SUPPORTED,FALSE
+PEA-083,work:4a6e9a674fb19a7e,df2_extended_only,PASS,maritime commons enhancement,SEMANTICALLY_SUPPORTED,FALSE
+PEA-084,work:29dc4ba17cb1add6,baseline_df_ge_3_covered,PASS,cultural diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-084,work:29dc4ba17cb1add6,baseline_df_ge_3_covered,PASS,international education,DIRECTLY_SUPPORTED,FALSE
+PEA-084,work:29dc4ba17cb1add6,baseline_df_ge_3_covered,PASS,educational outreach,DIRECTLY_SUPPORTED,FALSE
+PEA-084,work:29dc4ba17cb1add6,baseline_df_ge_3_covered,PASS,state-led institution,DIRECTLY_SUPPORTED,FALSE
+PEA-085,work:a7a48f525d96b0a5,baseline_df_ge_3_covered,PASS,education hub development,DIRECTLY_SUPPORTED,FALSE
+PEA-085,work:a7a48f525d96b0a5,baseline_df_ge_3_covered,PASS,higher education development,DIRECTLY_SUPPORTED,FALSE
+PEA-085,work:a7a48f525d96b0a5,baseline_df_ge_3_covered,PASS,strategic functions,DIRECTLY_SUPPORTED,FALSE
+PEA-085,work:a7a48f525d96b0a5,baseline_df_ge_3_covered,PASS,soft-power building,DIRECTLY_SUPPORTED,FALSE
+PEA-085,work:a7a48f525d96b0a5,baseline_df_ge_3_covered,PASS,international education,DIRECTLY_SUPPORTED,FALSE
+PEA-085,work:a7a48f525d96b0a5,baseline_df_ge_3_covered,PASS,policy development,DIRECTLY_SUPPORTED,FALSE
+PEA-086,work:403aa7c5c0924986,baseline_df_ge_3_covered,PASS,foreign public opinion,DIRECTLY_SUPPORTED,FALSE
+PEA-086,work:403aa7c5c0924986,baseline_df_ge_3_covered,PASS,US foreign policy,DIRECTLY_SUPPORTED,FALSE
+PEA-086,work:403aa7c5c0924986,baseline_df_ge_3_covered,PASS,troop commitments,DIRECTLY_SUPPORTED,FALSE
+PEA-086,work:403aa7c5c0924986,baseline_df_ge_3_covered,PASS,voting decisions,DIRECTLY_SUPPORTED,FALSE
+PEA-086,work:403aa7c5c0924986,baseline_df_ge_3_covered,PASS,issue salience for mass publics,SEMANTICALLY_SUPPORTED,FALSE
+PEA-087,work:395cbcae5cb253c9,df2_extended_only,PASS,Japanese language education,DIRECTLY_SUPPORTED,FALSE
+PEA-087,work:395cbcae5cb253c9,df2_extended_only,PASS,language planning policy,DIRECTLY_SUPPORTED,FALSE
+PEA-087,work:395cbcae5cb253c9,df2_extended_only,PASS,diplomatic influence,DIRECTLY_SUPPORTED,FALSE
+PEA-087,work:395cbcae5cb253c9,df2_extended_only,PASS,community ideologies and perceptions,SEMANTICALLY_SUPPORTED,FALSE
+PEA-087,work:395cbcae5cb253c9,df2_extended_only,PASS,parental language choices,SEMANTICALLY_SUPPORTED,FALSE
+PEA-088,work:ac03f4486c680f8a,df2_extended_only,PASS,awareness,DIRECTLY_SUPPORTED,FALSE
+PEA-088,work:ac03f4486c680f8a,df2_extended_only,PASS,inspiration,DIRECTLY_SUPPORTED,FALSE
+PEA-088,work:ac03f4486c680f8a,df2_extended_only,PASS,idea generation,DIRECTLY_SUPPORTED,FALSE
+PEA-088,work:ac03f4486c680f8a,df2_extended_only,PASS,encouragement,DIRECTLY_SUPPORTED,FALSE
+PEA-088,work:ac03f4486c680f8a,df2_extended_only,PASS,capacity building,DIRECTLY_SUPPORTED,FALSE
+PEA-089,work:56ae5ed1a11cafe0,baseline_df_ge_3_covered,PASS,foreign policy strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-089,work:56ae5ed1a11cafe0,baseline_df_ge_3_covered,PASS,think tank mechanism,SEMANTICALLY_SUPPORTED,FALSE
+PEA-089,work:56ae5ed1a11cafe0,baseline_df_ge_3_covered,PASS,international relations system,SEMANTICALLY_SUPPORTED,FALSE
+PEA-089,work:56ae5ed1a11cafe0,baseline_df_ge_3_covered,PASS,analytical center exposure channels,SEMANTICALLY_SUPPORTED,FALSE
+PEA-090,work:8f34e9884cb07a64,baseline_df_ge_3_covered,PASS,sports diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-090,work:8f34e9884cb07a64,baseline_df_ge_3_covered,PASS,infrastructure investments,DIRECTLY_SUPPORTED,FALSE
+PEA-090,work:8f34e9884cb07a64,baseline_df_ge_3_covered,PASS,cultural initiatives,DIRECTLY_SUPPORTED,FALSE
+PEA-090,work:8f34e9884cb07a64,baseline_df_ge_3_covered,PASS,reforms addressing security,SEMANTICALLY_SUPPORTED,FALSE
+PEA-090,work:8f34e9884cb07a64,baseline_df_ge_3_covered,PASS,geopolitical concerns,DIRECTLY_SUPPORTED,FALSE
+PEA-090,work:8f34e9884cb07a64,baseline_df_ge_3_covered,PASS,global image enhancement,SEMANTICALLY_SUPPORTED,FALSE
+PEA-091,work:76a59f571ab4cada,baseline_df_ge_3_covered,PASS,foreign policy strategies,DIRECTLY_SUPPORTED,FALSE
+PEA-091,work:76a59f571ab4cada,baseline_df_ge_3_covered,PASS,geopolitical setting,DIRECTLY_SUPPORTED,FALSE
+PEA-091,work:76a59f571ab4cada,baseline_df_ge_3_covered,PASS,regional integration initiatives,DIRECTLY_SUPPORTED,FALSE
+PEA-091,work:76a59f571ab4cada,baseline_df_ge_3_covered,PASS,international initiatives promotion,DIRECTLY_SUPPORTED,FALSE
+PEA-091,work:76a59f571ab4cada,baseline_df_ge_3_covered,PASS,multi-vectored foreign policy,DIRECTLY_SUPPORTED,FALSE
+PEA-092,work:5f103fcaa8df9cac,df2_extended_only,PASS,civilian and soft powers,DIRECTLY_SUPPORTED,FALSE
+PEA-092,work:5f103fcaa8df9cac,df2_extended_only,PASS,Sustainable Development Goals implementation,DIRECTLY_SUPPORTED,FALSE
+PEA-092,work:5f103fcaa8df9cac,df2_extended_only,PASS,green economy program,DIRECTLY_SUPPORTED,FALSE
+PEA-092,work:5f103fcaa8df9cac,df2_extended_only,PASS,energy strategies,DIRECTLY_SUPPORTED,FALSE
+PEA-092,work:5f103fcaa8df9cac,df2_extended_only,PASS,climate change initiatives,DIRECTLY_SUPPORTED,FALSE
+PEA-092,work:5f103fcaa8df9cac,df2_extended_only,PASS,humanitarian aid and peace,DIRECTLY_SUPPORTED,FALSE
+PEA-093,work:cd5e7a9c662b35cf,baseline_df_ge_3_covered,PASS,health diplomacy,DIRECTLY_SUPPORTED,FALSE
+PEA-093,work:cd5e7a9c662b35cf,baseline_df_ge_3_covered,PASS,geopolitical influence,DIRECTLY_SUPPORTED,FALSE
+PEA-093,work:cd5e7a9c662b35cf,baseline_df_ge_3_covered,PASS,global health efforts,SEMANTICALLY_SUPPORTED,FALSE
+PEA-093,work:cd5e7a9c662b35cf,baseline_df_ge_3_covered,PASS,diplomatic efforts,DIRECTLY_SUPPORTED,FALSE
+PEA-093,work:cd5e7a9c662b35cf,baseline_df_ge_3_covered,PASS,COVID-19 pandemic response,DIRECTLY_SUPPORTED,FALSE
+PEA-094,work:912553cf5d981ca7,df2_extended_only,PASS,religious scholars,DIRECTLY_SUPPORTED,FALSE
+PEA-094,work:912553cf5d981ca7,df2_extended_only,PASS,British agents,DIRECTLY_SUPPORTED,FALSE
+PEA-094,work:912553cf5d981ca7,df2_extended_only,PASS,sphere of influence,DIRECTLY_SUPPORTED,FALSE
+PEA-094,work:912553cf5d981ca7,df2_extended_only,PASS,transimperial ambitions,DIRECTLY_SUPPORTED,FALSE
+PEA-094,work:912553cf5d981ca7,df2_extended_only,PASS,local collaboration and resistance,DIRECTLY_SUPPORTED,FALSE
+PEA-095,work:cbf2704bd73e129f,baseline_df_ge_3_covered,MINOR_ISSUE,strategic narratives,DIRECTLY_SUPPORTED,FALSE
+PEA-095,work:cbf2704bd73e129f,baseline_df_ge_3_covered,MINOR_ISSUE,constructivist soft power theory,DIRECTLY_SUPPORTED,FALSE
+PEA-095,work:cbf2704bd73e129f,baseline_df_ge_3_covered,MINOR_ISSUE,non-coercive Chinese influence,DIRECTLY_SUPPORTED,FALSE
+PEA-095,work:cbf2704bd73e129f,baseline_df_ge_3_covered,MINOR_ISSUE,rhetorical strategy,DIRECTLY_SUPPORTED,FALSE
+PEA-095,work:cbf2704bd73e129f,baseline_df_ge_3_covered,MINOR_ISSUE,discursive hegemony,DIRECTLY_SUPPORTED,FALSE
+PEA-095,work:cbf2704bd73e129f,baseline_df_ge_3_covered,MINOR_ISSUE,co-optive processes,DIRECTLY_SUPPORTED,FALSE
+PEA-096,work:70a7d6b2ee2c9320,df2_extended_only,PASS,geopolitical identity narratives,DIRECTLY_SUPPORTED,FALSE
+PEA-096,work:70a7d6b2ee2c9320,df2_extended_only,PASS,state-centric assumptions,DIRECTLY_SUPPORTED,FALSE
+PEA-096,work:70a7d6b2ee2c9320,df2_extended_only,PASS,event ethnography,DIRECTLY_SUPPORTED,FALSE
+PEA-096,work:70a7d6b2ee2c9320,df2_extended_only,PASS,sporting events,DIRECTLY_SUPPORTED,FALSE
+PEA-096,work:70a7d6b2ee2c9320,df2_extended_only,PASS,geopolitical encounter,DIRECTLY_SUPPORTED,FALSE
+PEA-097,work:9ec902370f1740cf,baseline_df_ge_3_covered,PASS,social media communication tools,DIRECTLY_SUPPORTED,FALSE
+PEA-097,work:9ec902370f1740cf,baseline_df_ge_3_covered,PASS,public diplomacy strategies,DIRECTLY_SUPPORTED,FALSE
+PEA-097,work:9ec902370f1740cf,baseline_df_ge_3_covered,PASS,international co-existence relations,DIRECTLY_SUPPORTED,FALSE
+PEA-097,work:9ec902370f1740cf,baseline_df_ge_3_covered,PASS,attraction and persuasion methods,DIRECTLY_SUPPORTED,FALSE
+PEA-097,work:9ec902370f1740cf,baseline_df_ge_3_covered,PASS,information gathering and data,DIRECTLY_SUPPORTED,FALSE
+PEA-098,work:f501712079c63a63,baseline_df_ge_3_covered,PASS,foreign policy analysis,DIRECTLY_SUPPORTED,FALSE
+PEA-098,work:f501712079c63a63,baseline_df_ge_3_covered,PASS,communicative settings and adaptations,DIRECTLY_SUPPORTED,FALSE
+PEA-098,work:f501712079c63a63,baseline_df_ge_3_covered,PASS,agents and instruments,DIRECTLY_SUPPORTED,FALSE
+PEA-098,work:f501712079c63a63,baseline_df_ge_3_covered,PASS,strategic calibration,SEMANTICALLY_SUPPORTED,FALSE
+PEA-098,work:f501712079c63a63,baseline_df_ge_3_covered,PASS,regional power context,DIRECTLY_SUPPORTED,FALSE
+PEA-098,work:f501712079c63a63,baseline_df_ge_3_covered,PASS,constructivist approach,SEMANTICALLY_SUPPORTED,FALSE
+PEA-099,work:77710c6e45858e79,baseline_df_ge_3_covered,PASS,national image construction,DIRECTLY_SUPPORTED,FALSE
+PEA-099,work:77710c6e45858e79,baseline_df_ge_3_covered,PASS,international communication ability,DIRECTLY_SUPPORTED,FALSE
+PEA-099,work:77710c6e45858e79,baseline_df_ge_3_covered,PASS,media environment ecology,SEMANTICALLY_SUPPORTED,FALSE
+PEA-099,work:77710c6e45858e79,baseline_df_ge_3_covered,PASS,global publicity values,DIRECTLY_SUPPORTED,FALSE
+PEA-099,work:77710c6e45858e79,baseline_df_ge_3_covered,PASS,China's soft power,DIRECTLY_SUPPORTED,FALSE
+PEA-100,work:396df3748d686c9b,baseline_df_ge_3_covered,PASS,Vietnamese Buddhism,DIRECTLY_SUPPORTED,FALSE
+PEA-100,work:396df3748d686c9b,baseline_df_ge_3_covered,PASS,public understanding of identity,DIRECTLY_SUPPORTED,FALSE
+PEA-100,work:396df3748d686c9b,baseline_df_ge_3_covered,PASS,geopolitical influence,SEMANTICALLY_SUPPORTED,FALSE
+PEA-100,work:396df3748d686c9b,baseline_df_ge_3_covered,PASS,religious infrastructure,DIRECTLY_SUPPORTED,FALSE
+PEA-100,work:396df3748d686c9b,baseline_df_ge_3_covered,PASS,diplomatic relationships,DIRECTLY_SUPPORTED,FALSE
+PEA-100,work:396df3748d686c9b,baseline_df_ge_3_covered,PASS,public health campaigns,DIRECTLY_SUPPORTED,FALSE
